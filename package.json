@@ -1,1 +1,19 @@
-{}
+{
+  "name": "common-npm",
+  "version": "1.0.0",
+  "description": "Example of private packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remi-sap/common-npm.git"
+  },
+  "author": "Remi Astier <remi.astier@sap.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remi-sap/common-npm/issues"
+  },
+  "homepage": "https://github.com/remi-sap/common-npm#readme"
+}
